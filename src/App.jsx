@@ -11,7 +11,7 @@
 //   )
 // }
 import React from 'react';
-import HotelBookingManagementSystem from './redux/HotelBookingManagementSystem';
+import HotelBookingManagementSystem from './HotelBookingManagementSystem';
 //import EventManagementWebsiteDevelopment from './EventManagementWebsiteDevelopment';
 // import TaskOne from './TaskOne';
 // import LMSTaskTwo from './LMSTaskTwo';
